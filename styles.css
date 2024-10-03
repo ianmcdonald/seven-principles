@@ -1,0 +1,19 @@
+body {
+    background-color: #013d01;
+    color: #a9e8a9;
+    max-width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Work Sans", sans-serif;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 90%;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 24px;
+    text-transform: uppercase;
+}
