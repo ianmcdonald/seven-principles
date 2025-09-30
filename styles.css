@@ -1,6 +1,6 @@
 body {
-    background-color: #e6c8e6;
-    color: #343434;
+    background-color:#ffcbcb;
+    color: #f90404;
     font-family: "DM Sans", sans-serif;
 }
 
@@ -19,8 +19,8 @@ h1 {
 }
 
 h2 {
-    background-color: #343434;
-    color: #e6c8e6;
+    background-color: #f90404;;
+    color: #ffcbcb;
     padding: 16px;
     border-radius: 16px;
 }
@@ -47,7 +47,7 @@ p {
 a {
     color: inherit;
     text-decoration: none;
-    border: 2px solid #343434;
+    border: 2px solid #f90404;
     border-radius: 50%;
     padding-left: 16px;
     padding-right: 16px;
@@ -56,6 +56,6 @@ a {
 }
 
 a:hover {
-    color: #e6c8e6;
-    background-color: #343434;
+    color: #ffcbcb;
+    background-color: #f90404;
 }
